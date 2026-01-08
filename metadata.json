@@ -1,0 +1,5 @@
+{
+  "name": "EduQuiz Master",
+  "description": "A comprehensive educational quiz platform with themes, timed questions, detailed analytics, and global rankings, designed for offline-first usage.",
+  "requestFramePermissions": []
+}
